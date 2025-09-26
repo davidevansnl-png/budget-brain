@@ -1,0 +1,6 @@
+﻿{
+  "files.eol": "\n",
+  "editor.formatOnSave": true,
+  "python.defaultInterpreterPath": "\/backend/.venv/Scripts/python.exe",
+  "terminal.integrated.defaultProfile.windows": "PowerShell"
+}
